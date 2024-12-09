@@ -37,8 +37,10 @@
       "preface.re"
     ],
     "CHAPS": [
-      "chap-sample.md",
-      "chap-kurt.md"
+      "chap-menhera.md",
+      "chap-sytkm-rent.md",
+      "chap-kurt.md",
+      "chap-timotolki.md"
     ],
     "POSTDEF": [
       "contributors.re",

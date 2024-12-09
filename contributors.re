@@ -38,7 +38,7 @@ nevermind Part3制作中の日本に生まれ変わったグランジの帝王�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yjszk.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/114bot.jpeg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ティモトルキ https://twitter.com/114bot\\

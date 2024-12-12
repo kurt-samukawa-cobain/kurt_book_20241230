@@ -22,7 +22,7 @@
 
 まあ駅から徒歩30分とか、バスで15分とかそういうのも入ってるんでしょうがね。
 
-![家賃](images/chap-makeman-title/yachin.png)
+![家賃](images/chap-makeman-title/yachin.png?scale=0.5)
 
 とりあえず毎月これだけ払える収入がまずないと親元を離れることもできないのだ。
 
@@ -45,7 +45,7 @@ https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/19/01.html
 大学卒初任給21万を元にここで計算した、17万くらいだそう。
 https://talentsquare.co.jp/tedori-calc-tool-monthly/
 
-![手取り](images/chap-makeman-title/tedori.png)
+![手取り](images/chap-makeman-title/tedori.png?scale=0.5)
 
 ## 昇給率は？
 労働政策研究・研修機構が出している。大体年に2%らしい。
@@ -54,7 +54,7 @@ https://www.jil.go.jp/kokunai/blt/backnumber/2023/10/kokunai_01.html
 仮に大卒21万円の月収をベースに2%の上昇率で計算すると月収30万円を超えるのは19年後の41歳である。
 手取りを計算すると大体23万円である。40歳超えると介護保険が乗ってくる。
 
-![手取り41](images/chap-makeman-title/tedori41.png)
+![手取り41](images/chap-makeman-title/tedori41.png?scale=0.5)
 
 練馬区あたりで2LDKを借りて過ごせば月に10万円使える。
 実際のところ賃貸って家賃以外にも支払い発生するので10万円は割るだろうけど。
@@ -63,5 +63,5 @@ https://www.jil.go.jp/kokunai/blt/backnumber/2023/10/kokunai_01.html
 41歳の大卒社会人が結婚し、月10万円で夫婦と子供3人を養えれば増える。
 もしくは東京に会社に出勤させなければ増える。出勤はカス。東京で高い家賃出してオフィス借りるのをやめよう。それか関東の家賃を下げてくれ。敷金礼金、管理費の他に、火災保険とか家賃保証とかサイレント家賃が被さって結局15万くらいとかなるわけですよ。
 
-# 言いたい事
+## 言いたい事
 家賃高えんだよ
